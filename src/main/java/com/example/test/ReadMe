@@ -1,4 +1,4 @@
-The following project will calculate the reward points for User.
+The following project will calculate the reward points for a User.
 Calculation is based on - For every dollar spend above 50 will fetch a point and above 100 will fetch 2 points
 I built a rest service which will calculate based on json provided below. It is post request 
 url - http://localhost:9001/rewards/calculate
